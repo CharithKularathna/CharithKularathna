@@ -2,10 +2,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charith</h1>
-<h6 align="center">I'm a Computer Science and Engineering Undergraduate from University of Moratuwa.</h3>
 <br />
 
-## About me
+## 🙋‍♂️ About me
+
+- 🙋‍♂️ I'm a Computer Science and Engineering Undergraduate from University of Moratuwa.
+- 👨 I am a Full Stack Developer
+- 💻 Former Trainee Software Engineer at Stack Technologies Pvt. Ltd.
 
 ## 🚀 Languages and Tools
 
