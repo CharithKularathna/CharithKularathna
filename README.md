@@ -1,9 +1,11 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charith</h1>
-<h3 align="center">I'm a Computer Science and Engineering Undergraduate from University of Moratuwa.</h3>
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charith</h1>
+<h6 align="center">I'm a Computer Science and Engineering Undergraduate from University of Moratuwa.</h3>
 <br />
+
+## About me
 
 ## 🚀 Languages and Tools
 
