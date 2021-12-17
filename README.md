@@ -9,6 +9,7 @@
 - 🙋‍♂️ I'm a Computer Science and Engineering Undergraduate from University of Moratuwa.
 - 👨 I am a Full Stack Developer
 - 💻 Former Trainee Software Engineer at Stack Technologies Pvt. Ltd.
+<br />
 
 ## 🚀 Languages and Tools
 
