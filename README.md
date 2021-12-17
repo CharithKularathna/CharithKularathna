@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charith</h1>
 <h3 align="center">I'm a Computer Science and Engineering undergraduate from University of Moratuwa.</h3>
+<br />
 
 ## 🚀 Languages and Tools:
 
