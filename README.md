@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charith</h1>
 <h3 align="center">I'm a Computer Science and Engineering undergraduate from University of Moratuwa.</h3>
