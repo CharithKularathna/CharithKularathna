@@ -14,7 +14,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/ultraviolet/48/000000/react--v2.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png"/> </a> 
+    <a href="https://ionicframework.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
